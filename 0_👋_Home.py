@@ -8,7 +8,6 @@ st.set_page_config(
     page_icon="📊",
 )
 
-
 # ----- Left menu -----
 with st.sidebar:
     st.image("eae_img.png", width=200)
