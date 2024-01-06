@@ -55,8 +55,9 @@ st.subheader("About Me")
 st.write("""
 - 🧑‍💻 I am a Data Analytics Student at EAE Business School 
 
-- 🛩️ Prev Exp: PM / Headhunter at HG Plus - Los Angeles, CA
-                Monitoring and Evaluation Manager at Urban Mosaic - Mexico City, Mx
+- 🛩️ Prev Exp: 
+PM / Headhunter at HG Plus - Los Angeles, CA
+Monitoring and Evaluation Manager at Urban Mosaic - Mexico City, Mx
 
 - ❤️ Strategic planning / Team development
 
